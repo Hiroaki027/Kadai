@@ -64,25 +64,6 @@
   background-color: #AAAAAA;
 }
 
-@media screen and (max-width: 425px) {
-  main{
-    width: 100%
-  }
-  .main-contents {
-   width: 90%;
-   flex-wrap: wrap;
-  }
-  
-  .main-contents-box {
-    margin: 0px 0px 20px 0px;
-    width: 100%;
-  }
-  
-  .main-contents-box:last-child {
-    margin-bottom: 0px;
-  }
-}
-
 @media screen and (max-width: 768px) {
   main{
     width: 100%
